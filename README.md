@@ -2,10 +2,10 @@
 
 Bepro API Documentation.
 
-## О проекте
+## About
 
-Этот репозиторий содержит документацию по API BePro Travel.
+This repository contains documentation for the BePro Travel API.
 
-## Лицензия
+## License
 
-Все права защищены. См. [LICENSE](LICENSE).
+All rights reserved. See [LICENSE](LICENSE).
